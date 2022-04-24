@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d041ed1d-3b93-48d5-a24f-b32eee361028" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/django_photo_sharing_app/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../3DMovieMaking" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myproject/api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/api/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +69,7 @@
       <workItem from="1650733167192" duration="140000" />
       <workItem from="1650733310431" duration="23000" />
       <workItem from="1650733396674" duration="5130000" />
-      <workItem from="1650804854835" duration="1677000" />
+      <workItem from="1650804854835" duration="5257000" />
     </task>
     <servers />
   </component>

@@ -12,3 +12,4 @@ urlpatterns = [path('',views.getData),
 			   ]
 
 
+
