@@ -10,3 +10,5 @@ from . import views
 urlpatterns = [path('',views.getData),
 			   path('add/',views.addItem)
 			   ]
+
+urlpatterns = []
