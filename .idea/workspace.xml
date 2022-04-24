@@ -2,30 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d041ed1d-3b93-48d5-a24f-b32eee361028" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/trydjango.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/api/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/api/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/api/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/base/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/base/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/base/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/base/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/base/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/base/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myproject/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myproject/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myproject/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myproject/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myproject/wsgi.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../3DMovieMaking" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/api/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +67,7 @@
       <workItem from="1650733167192" duration="140000" />
       <workItem from="1650733310431" duration="23000" />
       <workItem from="1650733396674" duration="5130000" />
-      <workItem from="1650804854835" duration="1490000" />
+      <workItem from="1650804854835" duration="1677000" />
     </task>
     <servers />
   </component>
